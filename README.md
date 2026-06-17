@@ -1,5 +1,7 @@
 # Nexvision Case Study: Pupil Segmentation and Maritime Object Tracking
 
+![Label Your Data and Nexvision](labelyourdata-and-nexvision.png)
+
 Nexvision needed detailed annotations across multiple computer vision tasks to support model training for gaze detection and maritime tracking.
 
 Label Your Data supported the project with high-precision image and video annotation across three parallel workflows:
@@ -13,6 +15,8 @@ Label Your Data supported the project with high-precision image and video annota
 ## Client
 
 Nexvision is a French embedded vision company serving defense, aerospace, security, and industrial sectors. The company builds advanced vision systems and relies on high-quality annotated datasets to train and improve computer vision models.
+
+![Nexvision team](nexvision-team.png)
 
 ## Challenges
 
@@ -40,6 +44,8 @@ For eye detection, 30,000 images were annotated with bounding boxes using CVAT.
 ### Maritime Object Tracking
 
 For maritime tracking, 4,000 videos were manually labeled with object tracks in CVAT. This helped support model training for maritime awareness and object tracking in video data.
+
+![Maritime object tracking dataset example](maritime-object-tracking-dataset-example.png)
 
 ## Training and QA
 
