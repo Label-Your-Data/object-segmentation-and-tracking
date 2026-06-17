@@ -1,6 +1,6 @@
 # Nexvision Case Study: Pupil Segmentation and Maritime Object Tracking
 
-![Label Your Data and Nexvision](labelyourdata-and-nexvision.png)
+![Label Your Data and Nexvision case study](labelyourdata-and-nexvision-case%20study.png)
 
 Nexvision needed detailed annotations across multiple computer vision tasks to support model training for gaze detection and maritime tracking.
 
@@ -37,9 +37,13 @@ Label Your Data split the work into three parallel annotation workflows. Batches
 
 For pupil segmentation, 40,000 images were labeled using Nexvision’s internal annotation tool. Annotators created precise ellipse masks to support gaze detection model training.
 
+![Pupil segmentation dataset example](pupil-segmentation-dataset-example%20(1).png)
+
 ### Eye Detection
 
 For eye detection, 30,000 images were annotated with bounding boxes using CVAT.
+
+![Eye detection dataset example](eye-detection-dataset-example.png)
 
 ### Maritime Object Tracking
 
